@@ -12,20 +12,6 @@ https://doi.org/10.1287/ijoc.2024.0547
 
 https://doi.org/10.1287/ijoc.2024.0547.cd
 
-Below is the BibTex for citing this snapshot of the repository.
-
-```
-@misc{RWDROCode,
-  author =        {Guodong Yu, Pengcheng Dong, Huiping Sun, Xuejun Zhao},
-  publisher =     {INFORMS Journal on Computing},
-  title =         {{Code of the refined WDRO for contract pricing}},
-  year =          {2024},
-  doi =           {10.1287/ijoc.2024.0547.cd},
-  url =           {https://github.com/INFORMSJoC/2024.0547},
-  note =          {Available for download at https://github.com/INFORMSJoC/2024.0547},
-}  
-```
-
 
 ## Description and Replicating
 All codes are programmed in Python language.

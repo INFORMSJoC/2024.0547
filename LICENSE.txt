@@ -1,4 +1,4 @@
-Copyright 2024, Guodong Yu, Pengcheng Dong, Huiping Sun, Xuejun Zhao
+Copyright 2024, Guodong Yu, Pengcheng Dong, Huiping Sun
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

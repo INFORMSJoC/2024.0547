@@ -1,7 +1,7 @@
 # Code of the refined WDRO for contract pricing
 This archive is distributed in association with the INFORMS Journal on Computing under the MIT License.﻿ 
 
-The data in this repository is a snapshot of the data that was used in the research reported on in the paper "Refined Wasserstein Distributionally Robust Optimization for Contract Pricing: The Value of Optimality Conditions in Transactions" by Guodong Yu, Pengcheng Dong, Huiping Sun, Xuejun Zhao.
+The data in this repository is a snapshot of the data that was used in the research reported on in the paper "Refined Wasserstein Distributionally Robust Optimization for Contract Pricing: The Value of Optimality Conditions in Transactions" by Guodong Yu, Pengcheng Dong, Huiping Sun.
 
 This paper considers a contract pricing problem in a two-tier supply chain with information asymmetry. To ensure decision reliability with small data, a Wasserstein-based data-driven distributionally robust pricing model using a dual-source data set is developed to maximize the seller’s worst-case profit. Numerical experiments demonstrate that proposed solution methods have higher computational efficiency compared to traditional methods, and derived optimal decisions exhibit superior out-of-sample performance compared to classical data-driven decisions. The codes in this repository can be used to replicate the results of the numerical experiments.
 

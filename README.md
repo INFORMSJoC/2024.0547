@@ -1,7 +1,7 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
 # Code of the refined WDRO for contract pricing
-This archive is distributed in association with the INFORMS Journal on Computing under the MIT License.﻿ 
+This archive is distributed in association with the [INFORMS Journal on Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE.txt)﻿.
 
 The data in this repository is a snapshot of the data that was used in the research reported on in the paper "Refined Wasserstein Distributionally Robust Optimization for Contract Pricing: The Value of Optimality Conditions in Transactions" by Guodong Yu, Pengcheng Dong, Huiping Sun.
 

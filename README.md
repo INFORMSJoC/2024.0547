@@ -14,7 +14,19 @@ https://doi.org/10.1287/ijoc.2024.0547
 
 https://doi.org/10.1287/ijoc.2024.0547.cd
 
+Below is the BibTex for citing this snapshot of the repository.
 
+```
+@misc{Yu2025,
+  author =        {Guodong Yu and Pengcheng Dong and Huiping Sun},
+  publisher =     {INFORMS Journal on Computing},
+  title =         {{Refined Wasserstein Distributionally Robust Optimization for Contract Pricing: The Value of Optimality Conditions in Transactions}},
+  year =          {2025},
+  doi =           {10.1287/ijoc.2024.0547.cd},
+  url =           {https://github.com/INFORMSJoC/2024.0547},
+  note =          {Available for download at https://github.com/INFORMSJoC/2024.0547},
+}  
+```
 ## Description and Replicating
 All codes are programmed in Python language.
 
